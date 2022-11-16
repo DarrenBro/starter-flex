@@ -14,7 +14,7 @@
     "react-dropdown": "^1.6.2",
     "react-fontawesome": "^1.6.1",
     "react-form": "^2.16.3",
-    "react-scripts": "1.1.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "dbro": "react-scripts build && echo dbro.surge.sh > CNAME && mv CNAME build/ && surge",
